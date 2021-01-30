@@ -1,5 +1,4 @@
 #Merge sort Implementation
-
 #Recursive Solution
 
 void merge(vector<int> &A, vector<int> &B, int begin, int mid, int end)
