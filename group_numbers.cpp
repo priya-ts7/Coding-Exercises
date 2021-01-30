@@ -1,4 +1,4 @@
-#Grouping numbers
+# Grouping numbers
 
 /* Question: You are given an integer array arr of size n. Group and rearrange them (in-place) into evens and odds 
 in such a way that group of all even integers appears on the left side and group of all odd integers appears on the right side. */
