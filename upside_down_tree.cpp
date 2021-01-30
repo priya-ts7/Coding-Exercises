@@ -1,8 +1,9 @@
-# Upside down of Binary Tree
+// Upside down of Binary Tree
 
 /* Question : Given a binary tree where every node has either 0 or 2 children and every right node is a leaf node, 
 flip it upside down turning it into a binary tree where all left nodes are leafs. */
 
+//Iterative solution
 
 TreeNode* flipUpsideDown(TreeNode* root){
     if(root == NULL){
