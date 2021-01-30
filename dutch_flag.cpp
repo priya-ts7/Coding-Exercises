@@ -1,6 +1,6 @@
-#Dutch National Flag Problem
+# Dutch National Flag Problem
 
-#Question : Given some balls of three colors arranged in a line, rearrange them such that all the red balls go first, then green and then blue ones.
+# Question : Given some balls of three colors arranged in a line, rearrange them such that all the red balls go first, then green and then blue ones.
 
 void dutch_flag_sort(vector<char>& balls)
 {
