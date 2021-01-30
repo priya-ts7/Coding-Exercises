@@ -1,6 +1,6 @@
 # Coding-Exercises
 
-My implementation of certain 'medium' and 'hard' level problems in data struuctures and algorithms.
+My implementation of certain 'medium' and 'hard' level problems in data structures and algorithms.
 
 ### Content:
 
